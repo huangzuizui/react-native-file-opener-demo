@@ -1,0 +1,14 @@
+{
+  "name": "testApp25",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.24.1",
+    "react-native-file-opener": "^0.1.0",
+    "react-native-fs": "^1.4.0"
+  }
+}
