@@ -1,5 +1,11 @@
 {
   "name": "react-native-file-opener-demo",
+  "deywords": [
+    "react-native-file-opener-demo",
+    "react-native-file-opener",
+    "file-opener",
+    "opener"
+  ],
   "version": "0.0.1",
   "private": true,
   "scripts": {
