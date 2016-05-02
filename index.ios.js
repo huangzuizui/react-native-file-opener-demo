@@ -24,8 +24,8 @@ const SavePath = Platform.OS === 'ios' ? RNFS.DocumentDirectoryPath : RNFS.Exter
 const ProgressIndicator = Platform.OS === 'ios' ? ActivityIndicatorIOS : ProgressBar;
 
 
-const sampleImageFileURL = 'https://github.com/huangzuizui/react-native-file-opener/blob/master/sample/sample.jpg?raw=true';
-const sampleDocFileURL = 'https://github.com/huangzuizui/react-native-file-opener/blob/master/sample/sample.doc?raw=true';
+const sampleImageFileURL = 'https://github.com/huangzuizui/react-native-file-opener-demo/blob/master/sample/sample.jpg?raw=true';
+const sampleDocFileURL = 'https://github.com/huangzuizui/react-native-file-opener-demo/blob/master/sample/sample.doc?raw=true';
 
 const sampleImageFilePath = SavePath + '/sample.jpg';
 const sampleDocFilePath = SavePath + '/sample.doc';
